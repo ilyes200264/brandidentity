@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SINNTRAG",
-  description: "Carrying meaning. Creating impact.",
+  title: "VÉRANOMI",
+  description: "Where meaning speaks clearly. Platforme globale d'interprétation.",
 };
 
 export default function RootLayout({
